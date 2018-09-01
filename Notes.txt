@@ -1,0 +1,1 @@
+This app was deployed in Docker container.
